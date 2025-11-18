@@ -1,0 +1,13 @@
+
+
+/* Basic page style resets */
+* {
+  box-sizing: border-box;
+}
+[hidden] {
+  display: none !important;
+}
+#chart {
+  background-color: whitesmoke;
+  padding: 20px;
+}
